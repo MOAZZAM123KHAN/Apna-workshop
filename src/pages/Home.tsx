@@ -62,8 +62,8 @@ const Home = () => {
       <section className="py-16 md:py-24 bg-gray-50">
         <div className="container-custom">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
-            Why Choose <span className="text-primary">CarFix</span>
-            <span className="text-accent">Pro</span>
+            Why Choose <span className="text-primary">APNA</span>
+            <span className="text-accent">WORKSHOP</span>
           </h2>
           
           <div className="grid md:grid-cols-3 gap-8">
